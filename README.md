@@ -22,7 +22,7 @@ RUN SERVER
 
 ## Deployment
 
-Project Deployed at https://rails-isntruments.herokuapp.com
+Project Deployed at https://rails-instruments.herokuapp.com
 
 ## Routes
 
