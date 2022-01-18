@@ -15,5 +15,3 @@ instruments = Instrument.create([{
     family: "Brass",
     price: 2999.99
   }, {name: "Violin", family: "String", price: 24999.99}])
-
-end
