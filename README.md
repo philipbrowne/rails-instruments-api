@@ -2,7 +2,7 @@
 
 Example of a basic REST API with Musical Instruments that runs CRUD functions.
 
-## Local Deployment
+## Local Deployment with Ruby on Rails
 
 INSTALL DEPENDENCIES
 
@@ -12,9 +12,13 @@ RUN MIGRATION
 
 `rails db:migrate`
 
+RUN SEED
+
+`rails db:seed`
+
 RUN SERVER
 
-`rails s`
+`rails server`
 
 ## Deployment
 
