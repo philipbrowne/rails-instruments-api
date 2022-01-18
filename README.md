@@ -1,24 +1,15 @@
-# README
+# Rails Instruments API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Example of a basic REST API to perform CRUD functions. Uses Postgres by default. Please add your own database and credentials
 
-Things you may want to cover:
+INSTALL DEPENDENCIES
 
-* Ruby version
+$ bundle install
 
-* System dependencies
+RUN MIGRATION
 
-* Configuration
+$ rails db:migrate
 
-* Database creation
+RUN SERVER
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+$ rails s
